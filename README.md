@@ -1,2 +1,2 @@
 ### 概述
-- 上传自己的mavenjar包
+- 上传自己的maven的jar包
